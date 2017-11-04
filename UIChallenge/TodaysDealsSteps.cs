@@ -163,7 +163,7 @@ namespace AmazonChallenge
                 }
 
                 var nextButton = centerContainer[0].FindElements(By.PartialLinkText("→"));
-                Assert.IsTrue(nextButton.Count <= 1, "Expected to find 1 nextButton element but found " + centerContainer.Count);
+                Assert.IsTrue(nextButton.Count <= 1, "Expected to find 1 nextButton element but found " + nextButton.Count);
 
                 if (nextButton.Count == 1)
                 {
