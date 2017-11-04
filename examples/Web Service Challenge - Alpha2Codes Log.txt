@@ -1,0 +1,505 @@
+List of all 2-Character Codes that have associated Countries returned by restcountries.eu:
+AD = Andorra
+Attempting to request Flag Image: https://restcountries.eu/data/and.svg
+AE = United Arab Emirates
+Attempting to request Flag Image: https://restcountries.eu/data/are.svg
+AF = Afghanistan
+Attempting to request Flag Image: https://restcountries.eu/data/afg.svg
+AG = Antigua and Barbuda
+Attempting to request Flag Image: https://restcountries.eu/data/atg.svg
+AI = Anguilla
+Attempting to request Flag Image: https://restcountries.eu/data/aia.svg
+AL = Albania
+Attempting to request Flag Image: https://restcountries.eu/data/alb.svg
+AM = Armenia
+Attempting to request Flag Image: https://restcountries.eu/data/arm.svg
+AO = Angola
+Attempting to request Flag Image: https://restcountries.eu/data/ago.svg
+AQ = Antarctica
+Attempting to request Flag Image: https://restcountries.eu/data/ata.svg
+AR = Argentina
+Attempting to request Flag Image: https://restcountries.eu/data/arg.svg
+AS = American Samoa
+Attempting to request Flag Image: https://restcountries.eu/data/asm.svg
+AT = Austria
+Attempting to request Flag Image: https://restcountries.eu/data/aut.svg
+AU = Australia
+Attempting to request Flag Image: https://restcountries.eu/data/aus.svg
+AW = Aruba
+Attempting to request Flag Image: https://restcountries.eu/data/abw.svg
+AX = Åland Islands
+Attempting to request Flag Image: https://restcountries.eu/data/ala.svg
+AZ = Azerbaijan
+Attempting to request Flag Image: https://restcountries.eu/data/aze.svg
+BA = Bosnia and Herzegovina
+Attempting to request Flag Image: https://restcountries.eu/data/bih.svg
+BB = Barbados
+Attempting to request Flag Image: https://restcountries.eu/data/brb.svg
+BD = Bangladesh
+Attempting to request Flag Image: https://restcountries.eu/data/bgd.svg
+BE = Belgium
+Attempting to request Flag Image: https://restcountries.eu/data/bel.svg
+BF = Burkina Faso
+Attempting to request Flag Image: https://restcountries.eu/data/bfa.svg
+BG = Bulgaria
+Attempting to request Flag Image: https://restcountries.eu/data/bgr.svg
+BH = Bahrain
+Attempting to request Flag Image: https://restcountries.eu/data/bhr.svg
+BI = Burundi
+Attempting to request Flag Image: https://restcountries.eu/data/bdi.svg
+BJ = Benin
+Attempting to request Flag Image: https://restcountries.eu/data/ben.svg
+BL = Saint Barthélemy
+Attempting to request Flag Image: https://restcountries.eu/data/blm.svg
+BM = Bermuda
+Attempting to request Flag Image: https://restcountries.eu/data/bmu.svg
+BN = Brunei Darussalam
+Attempting to request Flag Image: https://restcountries.eu/data/brn.svg
+BO = Bolivia (Plurinational State of)
+Attempting to request Flag Image: https://restcountries.eu/data/bol.svg
+BQ = Bonaire, Sint Eustatius and Saba
+Attempting to request Flag Image: https://restcountries.eu/data/bes.svg
+BR = Brazil
+Attempting to request Flag Image: https://restcountries.eu/data/bra.svg
+BS = Bahamas
+Attempting to request Flag Image: https://restcountries.eu/data/bhs.svg
+BT = Bhutan
+Attempting to request Flag Image: https://restcountries.eu/data/btn.svg
+Population for Country BV = 0
+BV = Bouvet Island
+Attempting to request Flag Image: https://restcountries.eu/data/bvt.svg
+BW = Botswana
+Attempting to request Flag Image: https://restcountries.eu/data/bwa.svg
+BY = Belarus
+Attempting to request Flag Image: https://restcountries.eu/data/blr.svg
+BZ = Belize
+Attempting to request Flag Image: https://restcountries.eu/data/blz.svg
+CA = Canada
+Attempting to request Flag Image: https://restcountries.eu/data/can.svg
+CC = Cocos (Keeling) Islands
+Attempting to request Flag Image: https://restcountries.eu/data/cck.svg
+CD = Congo (Democratic Republic of the)
+Attempting to request Flag Image: https://restcountries.eu/data/cod.svg
+CF = Central African Republic
+Attempting to request Flag Image: https://restcountries.eu/data/caf.svg
+CG = Congo
+Attempting to request Flag Image: https://restcountries.eu/data/cog.svg
+CH = Switzerland
+Attempting to request Flag Image: https://restcountries.eu/data/che.svg
+CI = Côte d'Ivoire
+Attempting to request Flag Image: https://restcountries.eu/data/civ.svg
+CK = Cook Islands
+Attempting to request Flag Image: https://restcountries.eu/data/cok.svg
+CL = Chile
+Attempting to request Flag Image: https://restcountries.eu/data/chl.svg
+CM = Cameroon
+Attempting to request Flag Image: https://restcountries.eu/data/cmr.svg
+CN = China
+Attempting to request Flag Image: https://restcountries.eu/data/chn.svg
+CO = Colombia
+Attempting to request Flag Image: https://restcountries.eu/data/col.svg
+CR = Costa Rica
+Attempting to request Flag Image: https://restcountries.eu/data/cri.svg
+CU = Cuba
+Attempting to request Flag Image: https://restcountries.eu/data/cub.svg
+CV = Cabo Verde
+Attempting to request Flag Image: https://restcountries.eu/data/cpv.svg
+CW = Curaçao
+Attempting to request Flag Image: https://restcountries.eu/data/cuw.svg
+CX = Christmas Island
+Attempting to request Flag Image: https://restcountries.eu/data/cxr.svg
+CY = Cyprus
+Attempting to request Flag Image: https://restcountries.eu/data/cyp.svg
+CZ = Czech Republic
+Attempting to request Flag Image: https://restcountries.eu/data/cze.svg
+DE = Germany
+Attempting to request Flag Image: https://restcountries.eu/data/deu.svg
+DJ = Djibouti
+Attempting to request Flag Image: https://restcountries.eu/data/dji.svg
+DK = Denmark
+Attempting to request Flag Image: https://restcountries.eu/data/dnk.svg
+DM = Dominica
+Attempting to request Flag Image: https://restcountries.eu/data/dma.svg
+DO = Dominican Republic
+Attempting to request Flag Image: https://restcountries.eu/data/dom.svg
+DZ = Algeria
+Attempting to request Flag Image: https://restcountries.eu/data/dza.svg
+EC = Ecuador
+Attempting to request Flag Image: https://restcountries.eu/data/ecu.svg
+EE = Estonia
+Attempting to request Flag Image: https://restcountries.eu/data/est.svg
+EG = Egypt
+Attempting to request Flag Image: https://restcountries.eu/data/egy.svg
+EH = Western Sahara
+Attempting to request Flag Image: https://restcountries.eu/data/esh.svg
+ER = Eritrea
+Attempting to request Flag Image: https://restcountries.eu/data/eri.svg
+ES = Spain
+Attempting to request Flag Image: https://restcountries.eu/data/esp.svg
+ET = Ethiopia
+Attempting to request Flag Image: https://restcountries.eu/data/eth.svg
+FI = Finland
+Attempting to request Flag Image: https://restcountries.eu/data/fin.svg
+FJ = Fiji
+Attempting to request Flag Image: https://restcountries.eu/data/fji.svg
+FK = Falkland Islands (Malvinas)
+Attempting to request Flag Image: https://restcountries.eu/data/flk.svg
+FM = Micronesia (Federated States of)
+Attempting to request Flag Image: https://restcountries.eu/data/fsm.svg
+FO = Faroe Islands
+Attempting to request Flag Image: https://restcountries.eu/data/fro.svg
+FR = France
+Attempting to request Flag Image: https://restcountries.eu/data/fra.svg
+GA = Gabon
+Attempting to request Flag Image: https://restcountries.eu/data/gab.svg
+GB = United Kingdom of Great Britain and Northern Ireland
+Attempting to request Flag Image: https://restcountries.eu/data/gbr.svg
+GD = Grenada
+Attempting to request Flag Image: https://restcountries.eu/data/grd.svg
+GE = Georgia
+Attempting to request Flag Image: https://restcountries.eu/data/geo.svg
+GF = French Guiana
+Attempting to request Flag Image: https://restcountries.eu/data/guf.svg
+GG = Guernsey
+Attempting to request Flag Image: https://restcountries.eu/data/ggy.svg
+GH = Ghana
+Attempting to request Flag Image: https://restcountries.eu/data/gha.svg
+GI = Gibraltar
+Attempting to request Flag Image: https://restcountries.eu/data/gib.svg
+GL = Greenland
+Attempting to request Flag Image: https://restcountries.eu/data/grl.svg
+GM = Gambia
+Attempting to request Flag Image: https://restcountries.eu/data/gmb.svg
+GN = Guinea
+Attempting to request Flag Image: https://restcountries.eu/data/gin.svg
+GP = Guadeloupe
+Attempting to request Flag Image: https://restcountries.eu/data/glp.svg
+GQ = Equatorial Guinea
+Attempting to request Flag Image: https://restcountries.eu/data/gnq.svg
+GR = Greece
+Attempting to request Flag Image: https://restcountries.eu/data/grc.svg
+GS = South Georgia and the South Sandwich Islands
+Attempting to request Flag Image: https://restcountries.eu/data/sgs.svg
+GT = Guatemala
+Attempting to request Flag Image: https://restcountries.eu/data/gtm.svg
+GU = Guam
+Attempting to request Flag Image: https://restcountries.eu/data/gum.svg
+GW = Guinea-Bissau
+Attempting to request Flag Image: https://restcountries.eu/data/gnb.svg
+GY = Guyana
+Attempting to request Flag Image: https://restcountries.eu/data/guy.svg
+HK = Hong Kong
+Attempting to request Flag Image: https://restcountries.eu/data/hkg.svg
+Population for Country HM = 0
+HM = Heard Island and McDonald Islands
+Attempting to request Flag Image: https://restcountries.eu/data/hmd.svg
+HN = Honduras
+Attempting to request Flag Image: https://restcountries.eu/data/hnd.svg
+HR = Croatia
+Attempting to request Flag Image: https://restcountries.eu/data/hrv.svg
+HT = Haiti
+Attempting to request Flag Image: https://restcountries.eu/data/hti.svg
+HU = Hungary
+Attempting to request Flag Image: https://restcountries.eu/data/hun.svg
+ID = Indonesia
+Attempting to request Flag Image: https://restcountries.eu/data/idn.svg
+IE = Ireland
+Attempting to request Flag Image: https://restcountries.eu/data/irl.svg
+IL = Israel
+Attempting to request Flag Image: https://restcountries.eu/data/isr.svg
+IM = Isle of Man
+Attempting to request Flag Image: https://restcountries.eu/data/imn.svg
+IN = India
+Attempting to request Flag Image: https://restcountries.eu/data/ind.svg
+IO = British Indian Ocean Territory
+Attempting to request Flag Image: https://restcountries.eu/data/iot.svg
+IQ = Iraq
+Attempting to request Flag Image: https://restcountries.eu/data/irq.svg
+IR = Iran (Islamic Republic of)
+Attempting to request Flag Image: https://restcountries.eu/data/irn.svg
+IS = Iceland
+Attempting to request Flag Image: https://restcountries.eu/data/isl.svg
+IT = Italy
+Attempting to request Flag Image: https://restcountries.eu/data/ita.svg
+JE = Jersey
+Attempting to request Flag Image: https://restcountries.eu/data/jey.svg
+JM = Jamaica
+Attempting to request Flag Image: https://restcountries.eu/data/jam.svg
+JO = Jordan
+Attempting to request Flag Image: https://restcountries.eu/data/jor.svg
+JP = Japan
+Attempting to request Flag Image: https://restcountries.eu/data/jpn.svg
+KE = Kenya
+Attempting to request Flag Image: https://restcountries.eu/data/ken.svg
+KG = Kyrgyzstan
+Attempting to request Flag Image: https://restcountries.eu/data/kgz.svg
+KH = Cambodia
+Attempting to request Flag Image: https://restcountries.eu/data/khm.svg
+KI = Kiribati
+Attempting to request Flag Image: https://restcountries.eu/data/kir.svg
+KM = Comoros
+Attempting to request Flag Image: https://restcountries.eu/data/com.svg
+KN = Saint Kitts and Nevis
+Attempting to request Flag Image: https://restcountries.eu/data/kna.svg
+KP = Korea (Democratic People's Republic of)
+Attempting to request Flag Image: https://restcountries.eu/data/prk.svg
+KR = Korea (Republic of)
+Attempting to request Flag Image: https://restcountries.eu/data/kor.svg
+KW = Kuwait
+Attempting to request Flag Image: https://restcountries.eu/data/kwt.svg
+KY = Cayman Islands
+Attempting to request Flag Image: https://restcountries.eu/data/cym.svg
+KZ = Kazakhstan
+Attempting to request Flag Image: https://restcountries.eu/data/kaz.svg
+LA = Lao People's Democratic Republic
+Attempting to request Flag Image: https://restcountries.eu/data/lao.svg
+LB = Lebanon
+Attempting to request Flag Image: https://restcountries.eu/data/lbn.svg
+LC = Saint Lucia
+Attempting to request Flag Image: https://restcountries.eu/data/lca.svg
+LI = Liechtenstein
+Attempting to request Flag Image: https://restcountries.eu/data/lie.svg
+LK = Sri Lanka
+Attempting to request Flag Image: https://restcountries.eu/data/lka.svg
+LR = Liberia
+Attempting to request Flag Image: https://restcountries.eu/data/lbr.svg
+LS = Lesotho
+Attempting to request Flag Image: https://restcountries.eu/data/lso.svg
+LT = Lithuania
+Attempting to request Flag Image: https://restcountries.eu/data/ltu.svg
+LU = Luxembourg
+Attempting to request Flag Image: https://restcountries.eu/data/lux.svg
+LV = Latvia
+Attempting to request Flag Image: https://restcountries.eu/data/lva.svg
+LY = Libya
+Attempting to request Flag Image: https://restcountries.eu/data/lby.svg
+MA = Morocco
+Attempting to request Flag Image: https://restcountries.eu/data/mar.svg
+MC = Monaco
+Attempting to request Flag Image: https://restcountries.eu/data/mco.svg
+MD = Moldova (Republic of)
+Attempting to request Flag Image: https://restcountries.eu/data/mda.svg
+ME = Montenegro
+Attempting to request Flag Image: https://restcountries.eu/data/mne.svg
+MF = Saint Martin (French part)
+Attempting to request Flag Image: https://restcountries.eu/data/maf.svg
+MG = Madagascar
+Attempting to request Flag Image: https://restcountries.eu/data/mdg.svg
+MH = Marshall Islands
+Attempting to request Flag Image: https://restcountries.eu/data/mhl.svg
+MK = Macedonia (the former Yugoslav Republic of)
+Attempting to request Flag Image: https://restcountries.eu/data/mkd.svg
+ML = Mali
+Attempting to request Flag Image: https://restcountries.eu/data/mli.svg
+MM = Myanmar
+Attempting to request Flag Image: https://restcountries.eu/data/mmr.svg
+MN = Mongolia
+Attempting to request Flag Image: https://restcountries.eu/data/mng.svg
+MO = Macao
+Attempting to request Flag Image: https://restcountries.eu/data/mac.svg
+MP = Northern Mariana Islands
+Attempting to request Flag Image: https://restcountries.eu/data/mnp.svg
+MQ = Martinique
+Attempting to request Flag Image: https://restcountries.eu/data/mtq.svg
+MR = Mauritania
+Attempting to request Flag Image: https://restcountries.eu/data/mrt.svg
+MS = Montserrat
+Attempting to request Flag Image: https://restcountries.eu/data/msr.svg
+MT = Malta
+Attempting to request Flag Image: https://restcountries.eu/data/mlt.svg
+MU = Mauritius
+Attempting to request Flag Image: https://restcountries.eu/data/mus.svg
+MV = Maldives
+Attempting to request Flag Image: https://restcountries.eu/data/mdv.svg
+MW = Malawi
+Attempting to request Flag Image: https://restcountries.eu/data/mwi.svg
+MX = Mexico
+Attempting to request Flag Image: https://restcountries.eu/data/mex.svg
+MY = Malaysia
+Attempting to request Flag Image: https://restcountries.eu/data/mys.svg
+MZ = Mozambique
+Attempting to request Flag Image: https://restcountries.eu/data/moz.svg
+NA = Namibia
+Attempting to request Flag Image: https://restcountries.eu/data/nam.svg
+NC = New Caledonia
+Attempting to request Flag Image: https://restcountries.eu/data/ncl.svg
+NE = Niger
+Attempting to request Flag Image: https://restcountries.eu/data/ner.svg
+NF = Norfolk Island
+Attempting to request Flag Image: https://restcountries.eu/data/nfk.svg
+NG = Nigeria
+Attempting to request Flag Image: https://restcountries.eu/data/nga.svg
+NI = Nicaragua
+Attempting to request Flag Image: https://restcountries.eu/data/nic.svg
+NL = Netherlands
+Attempting to request Flag Image: https://restcountries.eu/data/nld.svg
+NO = Norway
+Attempting to request Flag Image: https://restcountries.eu/data/nor.svg
+NP = Nepal
+Attempting to request Flag Image: https://restcountries.eu/data/npl.svg
+NR = Nauru
+Attempting to request Flag Image: https://restcountries.eu/data/nru.svg
+NU = Niue
+Attempting to request Flag Image: https://restcountries.eu/data/niu.svg
+NZ = New Zealand
+Attempting to request Flag Image: https://restcountries.eu/data/nzl.svg
+OM = Oman
+Attempting to request Flag Image: https://restcountries.eu/data/omn.svg
+PA = Panama
+Attempting to request Flag Image: https://restcountries.eu/data/pan.svg
+PE = Peru
+Attempting to request Flag Image: https://restcountries.eu/data/per.svg
+PF = French Polynesia
+Attempting to request Flag Image: https://restcountries.eu/data/pyf.svg
+PG = Papua New Guinea
+Attempting to request Flag Image: https://restcountries.eu/data/png.svg
+PH = Philippines
+Attempting to request Flag Image: https://restcountries.eu/data/phl.svg
+PK = Pakistan
+Attempting to request Flag Image: https://restcountries.eu/data/pak.svg
+PL = Poland
+Attempting to request Flag Image: https://restcountries.eu/data/pol.svg
+PM = Saint Pierre and Miquelon
+Attempting to request Flag Image: https://restcountries.eu/data/spm.svg
+PN = Pitcairn
+Attempting to request Flag Image: https://restcountries.eu/data/pcn.svg
+PR = Puerto Rico
+Attempting to request Flag Image: https://restcountries.eu/data/pri.svg
+PS = Palestine, State of
+Attempting to request Flag Image: https://restcountries.eu/data/pse.svg
+PT = Portugal
+Attempting to request Flag Image: https://restcountries.eu/data/prt.svg
+PW = Palau
+Attempting to request Flag Image: https://restcountries.eu/data/plw.svg
+PY = Paraguay
+Attempting to request Flag Image: https://restcountries.eu/data/pry.svg
+QA = Qatar
+Attempting to request Flag Image: https://restcountries.eu/data/qat.svg
+RE = Réunion
+Attempting to request Flag Image: https://restcountries.eu/data/reu.svg
+RO = Romania
+Attempting to request Flag Image: https://restcountries.eu/data/rou.svg
+RS = Serbia
+Attempting to request Flag Image: https://restcountries.eu/data/srb.svg
+RU = Russian Federation
+Attempting to request Flag Image: https://restcountries.eu/data/rus.svg
+RW = Rwanda
+Attempting to request Flag Image: https://restcountries.eu/data/rwa.svg
+SA = Saudi Arabia
+Attempting to request Flag Image: https://restcountries.eu/data/sau.svg
+SB = Solomon Islands
+Attempting to request Flag Image: https://restcountries.eu/data/slb.svg
+SC = Seychelles
+Attempting to request Flag Image: https://restcountries.eu/data/syc.svg
+SD = Sudan
+Attempting to request Flag Image: https://restcountries.eu/data/sdn.svg
+SE = Sweden
+Attempting to request Flag Image: https://restcountries.eu/data/swe.svg
+SG = Singapore
+Attempting to request Flag Image: https://restcountries.eu/data/sgp.svg
+SH = Saint Helena, Ascension and Tristan da Cunha
+Attempting to request Flag Image: https://restcountries.eu/data/shn.svg
+SI = Slovenia
+Attempting to request Flag Image: https://restcountries.eu/data/svn.svg
+SJ = Svalbard and Jan Mayen
+Attempting to request Flag Image: https://restcountries.eu/data/sjm.svg
+SK = Slovakia
+Attempting to request Flag Image: https://restcountries.eu/data/svk.svg
+SL = Sierra Leone
+Attempting to request Flag Image: https://restcountries.eu/data/sle.svg
+SM = San Marino
+Attempting to request Flag Image: https://restcountries.eu/data/smr.svg
+SN = Senegal
+Attempting to request Flag Image: https://restcountries.eu/data/sen.svg
+SO = Somalia
+Attempting to request Flag Image: https://restcountries.eu/data/som.svg
+SR = Suriname
+Attempting to request Flag Image: https://restcountries.eu/data/sur.svg
+SS = South Sudan
+Attempting to request Flag Image: https://restcountries.eu/data/ssd.svg
+ST = Sao Tome and Principe
+Attempting to request Flag Image: https://restcountries.eu/data/stp.svg
+SV = El Salvador
+Attempting to request Flag Image: https://restcountries.eu/data/slv.svg
+SX = Sint Maarten (Dutch part)
+Attempting to request Flag Image: https://restcountries.eu/data/sxm.svg
+SY = Syrian Arab Republic
+Attempting to request Flag Image: https://restcountries.eu/data/syr.svg
+SZ = Swaziland
+Attempting to request Flag Image: https://restcountries.eu/data/swz.svg
+TC = Turks and Caicos Islands
+Attempting to request Flag Image: https://restcountries.eu/data/tca.svg
+TD = Chad
+Attempting to request Flag Image: https://restcountries.eu/data/tcd.svg
+TF = French Southern Territories
+Attempting to request Flag Image: https://restcountries.eu/data/atf.svg
+TG = Togo
+Attempting to request Flag Image: https://restcountries.eu/data/tgo.svg
+TH = Thailand
+Attempting to request Flag Image: https://restcountries.eu/data/tha.svg
+TJ = Tajikistan
+Attempting to request Flag Image: https://restcountries.eu/data/tjk.svg
+TK = Tokelau
+Attempting to request Flag Image: https://restcountries.eu/data/tkl.svg
+TL = Timor-Leste
+Attempting to request Flag Image: https://restcountries.eu/data/tls.svg
+TM = Turkmenistan
+Attempting to request Flag Image: https://restcountries.eu/data/tkm.svg
+TN = Tunisia
+Attempting to request Flag Image: https://restcountries.eu/data/tun.svg
+TO = Tonga
+Attempting to request Flag Image: https://restcountries.eu/data/ton.svg
+TR = Turkey
+Attempting to request Flag Image: https://restcountries.eu/data/tur.svg
+TT = Trinidad and Tobago
+Attempting to request Flag Image: https://restcountries.eu/data/tto.svg
+TV = Tuvalu
+Attempting to request Flag Image: https://restcountries.eu/data/tuv.svg
+TW = Taiwan
+Attempting to request Flag Image: https://restcountries.eu/data/twn.svg
+TZ = Tanzania, United Republic of
+Attempting to request Flag Image: https://restcountries.eu/data/tza.svg
+UA = Ukraine
+Attempting to request Flag Image: https://restcountries.eu/data/ukr.svg
+UG = Uganda
+Attempting to request Flag Image: https://restcountries.eu/data/uga.svg
+UM = United States Minor Outlying Islands
+Attempting to request Flag Image: https://restcountries.eu/data/umi.svg
+US = United States of America
+Attempting to request Flag Image: https://restcountries.eu/data/usa.svg
+UY = Uruguay
+Attempting to request Flag Image: https://restcountries.eu/data/ury.svg
+UZ = Uzbekistan
+Attempting to request Flag Image: https://restcountries.eu/data/uzb.svg
+VA = Holy See
+Attempting to request Flag Image: https://restcountries.eu/data/vat.svg
+VC = Saint Vincent and the Grenadines
+Attempting to request Flag Image: https://restcountries.eu/data/vct.svg
+VE = Venezuela (Bolivarian Republic of)
+Attempting to request Flag Image: https://restcountries.eu/data/ven.svg
+VG = Virgin Islands (British)
+Attempting to request Flag Image: https://restcountries.eu/data/vgb.svg
+VI = Virgin Islands (U.S.)
+Attempting to request Flag Image: https://restcountries.eu/data/vir.svg
+VN = Viet Nam
+Attempting to request Flag Image: https://restcountries.eu/data/vnm.svg
+VU = Vanuatu
+Attempting to request Flag Image: https://restcountries.eu/data/vut.svg
+WF = Wallis and Futuna
+Attempting to request Flag Image: https://restcountries.eu/data/wlf.svg
+WS = Samoa
+Attempting to request Flag Image: https://restcountries.eu/data/wsm.svg
+XK = Republic of Kosovo
+Attempting to request Flag Image: https://restcountries.eu/data/kos.svg
+YE = Yemen
+Attempting to request Flag Image: https://restcountries.eu/data/yem.svg
+YT = Mayotte
+Attempting to request Flag Image: https://restcountries.eu/data/myt.svg
+ZA = South Africa
+Attempting to request Flag Image: https://restcountries.eu/data/zaf.svg
+ZM = Zambia
+Attempting to request Flag Image: https://restcountries.eu/data/zmb.svg
+ZW = Zimbabwe
+Attempting to request Flag Image: https://restcountries.eu/data/zwe.svg
+Number of Countries Detected = 250
+Test Duration = 5.73 minutes

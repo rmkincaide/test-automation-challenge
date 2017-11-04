@@ -1,0 +1,46 @@
+Given I have navigated to 'http://www.amazon.com/gp/goldbox' using Chrome
+-> done: TodaysDealsSteps.GivenIHaveNavigatedToUsingChrome("http://www.amazon...") (7.0s)
+When I click on the Sort By dropdown and select 'Price - High to Low'
+-> done: TodaysDealsSteps.WhenIClickOnTheSortByDropdown("Price - High to Low") (2.5s)
+Then all products on each page should have names and images as well as prices that are formatted and sorted correctly
+Num Deal Container Sets Detected on Page 1 = 24
+New Low Price Detected: MSI GTX 1080 Ultra Gaming Laptop = 2499.99
+New Low Price Detected: Samsung QN65Q7F Flat 65-Inch 4K Ultra HD Smart QLED... = 2299.00
+New Low Price Detected: LG B7A Series OLED 4K HDR Smart TV (2017 Model)(Certifi... = 2249.99
+New Low Price Detected: Now 72% OFF!!! - Ralph Lauren Sporting Automatic Watches = 2095.00
+New Low Price Detected: Save on Cyberpowerpc GTX 1080 TI Desktop = 1799.99
+New Low Price Detected: Save on New ASUS GTX 1070 Laptop = 1499.99
+New Low Price Detected: 66% OFF!!! Baume & Mercier Mens Capeland Automatic Ch... = 1495.00
+New Low Price Detected: Acer Predator 15.6 inch Laptop (Certified Refurbished) = 1399.99
+New Low Price Detected: Cosmo F965 36-Inches Dual Fuel Gas Range with 3.8 cu. ft... = 1389.95
+New Low Price Detected: Dell XPS 15 9550 Laptop (Certified Refurbished) = 1347.66
+New Low Price Detected: Jura Impressa S9 Classic Coffee Machine (Certified Ref... = 1299.90
+New Low Price Detected: Genuine Ohana Outdoor Patio Sofa Sectional Wicker Furnitur... = 1197.27
+New Low Price Detected: Apple MacBook Pro 15" Laptop Intel Quad Core i7 2.0GHz (C... = 1099.00
+New Low Price Detected: Apple MacBook Pro 15" Laptop Intel QuadCore i7 2.2GHz (C... = 1099.00
+New Low Price Detected: Apple MacBook Pro 15" Laptop Intel QuadCore i7 2.2GHz (C... = 1099.00
+New Low Price Detected: Acer Predator Gaming Laptop = 1049.99
+New Low Price Detected: Save on Design Element London Double Sink Vanity Set, 60-Inch, Espresso and more = 1033.77
+New Low Price Detected: Apple Macbook Air G0NY2LL/A 11-Inch Laptop (Certified Refur... = 1025.49
+New Low Price Detected: Save on RapidCycle Crixus 3x10SP Shimano Deore Shadow Aluminum Hard Tail ... = 974.23
+New Low Price Detected: Save on select LifeSpan Fitness products = 949.99
+New Low Price Detected: Save on Blackhawk BP225 Air/Hydraulic Axle Jack (25 Tons) and more = 892.35
+New Low Price Detected: Save on Schuler Scientific SLB-4002 B Series Top Loading Balance with 4000g Capacity ... = 887.22
+New Low Price Detected: Apple iMac ME086LL/A 21.5-Inch All In One Desktop (Certifi... = 849.00
+New Low Price Detected: Save on New Acer GTX 1050 TI Laptop = 749.00
+Num Deal Container Sets Detected on Page 2 = 24
+New Low Price Detected: Save on Kettler #SketchPong Indoor/Outdoor Table Tennis Table and more = 714.34
+New Low Price Detected: Apple iPad Pro 12.9" Tablet (Certified Refurbished) = 709.99
+New Low Price Detected: Samsung POWERbot Turbo Robot Vacuum (Certified Refu... = 699.99
+New Low Price Detected: PuraFlame 60 Recessed Electric Fireplace Touch Scre... = 699.99
+New Low Price Detected: Acer Swift Laptop - 13.3 LCD (Certified Refurbished) = 699.99
+New Low Price Detected: Save on Cyberpowerpc RX 580 Desktop = 699.00
+New Low Price Detected: Sony KD55X720E 55-Inch 4k Ultra HD Smart LED TV (201... = 698.00
+New Low Price Detected: Acer 15.6 Laptop (Certified Refurbished) = 679.99
+New Low Price Detected: Dell Amazon's Choice Travel Laptop = 649.99
+New Low Price Detected: Dell Inspiron 15 7000 7568 2-in-1 Laptop (Certified Refurbished) = 639.00
+New Low Price Detected: Save up to 15% on Lucid 16" Plush Memory Foam Mattress... = 636.83
+New Low Price Detected: Apple iPad Pro 12.9" Tablet (Certified Refurbished) = 619.99
+-> error:   Price Incorrectly Formatted: dd
+  Expected: True
+  But was:  False
